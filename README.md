@@ -1,5 +1,5 @@
 # Student Schedule Project
-### Language: Java
+Language: Java
 ## Task
 Create a program which takes the following input:
 - Student name
